@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #40514E;
+}
+
+h1 {
+    margin: 50 auto 0 auto;
+    font-size: 5.625em;
+    font-family: cursive;
+    color: #66BFBF
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5em;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+    margin: 10px;
+}
+
+hr {
+    border: none;
+    border-top: dotted #EAF6F6 5px; 
+    width: 5%;
+}
+
+#profile-pic {
+    border-radius: 100%;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.middle-container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 30px;
+    color: #EAF6F6;
+    margin: 50px 0 0 0;
+}
+
+.profile {
+    font-size: large;
+}
+.pro {
+    text-decoration: underline;
+}
+
+.programmer {
+    font-weight: normal;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.music-image {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+}
+
+.knife-image {
+    float: left;
+    width: 35%;
+    margin-right: 30px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.btn {
+    border-radius: 10px;
+    height: 0;
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: 10;
+    padding: 20px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
